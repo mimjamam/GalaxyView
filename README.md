@@ -5,7 +5,8 @@
 ---
 ### 🌌 Application Preview
 
-<img src="assets/Screenshot.png" alt="GalaxyView UI" width="600"/>
+<img src="GalaxyView/assets/screenshot.png" alt="GalaxyView UI" width="600"/>
+
 
 
 
