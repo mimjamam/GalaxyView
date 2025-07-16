@@ -3,9 +3,10 @@
 **GalaxyView** is a C++ application project built using [Code::Blocks](http://www.codeblocks.org/) and compiled with the GCC toolchain. The project supports both **Debug** and **Release** build configurations, making it suitable for development and production-level deployment.
 
 ---
-### 🌌 Application Preview
+<h2>🌌 Preview</h2>
+<p>Here’s a screenshot of the GalaxyView application:</p>
+<img src="GalaxyView/assets/Screenshot.png" alt="GalaxyView Screenshot" width="600"/>
 
-<img src="GalaxyView/assets/screenshot.png" alt="GalaxyView UI" width="600"/>
 
 
 
