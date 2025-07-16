@@ -5,7 +5,8 @@
 ---
 ### 🌌 Application Preview
 
-![GalaxyView Main UI](assets/screenshot.png)
+<img src="assets/screenshot.png" alt="GalaxyView UI" width="600"/>
+
 
 
 ## 📁 Project Structure
